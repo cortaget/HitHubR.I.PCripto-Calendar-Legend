@@ -1,0 +1,32 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="guil-20240526T133336Z-001:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/guil_20240526T133336Z_001_jar</output-path>
+    <root id="archive" name="guil-20240526T133336Z-001.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/guil/src/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="guil-20240526T133336Z-001" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-platform-commons-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-params-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-platform-engine-1.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/httpcore5-5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/client-runtime-3.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/html-5.0.bv6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/httpclient5-5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/json-20210307.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/ec.base-3.1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/org.json-ld-3.1.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/jquery-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/jquery-1.11.3.bv1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/httpcore5-h2-5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/guil/lib/shared-3.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
